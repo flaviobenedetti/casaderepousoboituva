@@ -1,6 +1,10 @@
 # casaderepousoboituva
 Site da Casa de Repouso Boituva
 
+### url
+
+www.casaderepousoboituva.com.br
+
 ## Objetivo
 
 Site de apresentação comercial de uma casa de repouso. 
@@ -14,3 +18,8 @@ Site de apresentação comercial de uma casa de repouso.
 - Meio de comunicação com a adminstração (e-mail)
 
 ## Tecnologia utilizada
+
+- Java 8.0
+- Angular JS 1.6.3
+- Bootstrap
+
