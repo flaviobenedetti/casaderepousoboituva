@@ -12,3 +12,5 @@ Site de apresentação comercial de uma casa de repouso.
 - Fotos dos internos;
 - Endereço e telefone de contato;
 - Meio de comunicação com a adminstração (e-mail)
+
+## Tecnologia utilizada
